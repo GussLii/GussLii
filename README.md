@@ -90,9 +90,13 @@ Now I study blockchains not as rebellion tools, but as imperfect systems shaped 
 > I don’t see crypto as freedom tech anymore.  
 > I see it as a fascinating experiment in trust design—still broken in parts, still worth fixing.
 
+---
+
 ### 💬 Philosophy:
 > If I can make something useful with just Python and a Google Doc,  
 > Maybe you don’t need Kubernetes for your MVP 🤡.
+
+---
 
 ### 📫 Reach me:
 - [LinkedIn](https://www.linkedin.com/in/shane-li-882388201/)
