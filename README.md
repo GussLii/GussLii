@@ -56,19 +56,19 @@ Actively looking for opportunities as a:
 
 ## 🧠 Models I’ve Played With 
 
-CNN got hot, I handled vision.  
-LSTM stuck around, I tuned sequence.  
-YOLO split tiles, I ran detections.  
-GARCH waved noise, I forecast tension.
+**CNN** got hot, I handled vision.  
+**LSTM** stuck around, I tuned sequence.  
+**YOLO** split tiles, I ran detections.  
+**GARCH** waved noise, I forecast tension.
 
-XGBoost like potions, I tweaked for days,  
-Transformers I narrate like bedtime phase.  
-BERT still lives—gets the job done,  
-LightGBM? Clean, precise, fun.
+**XGBoost** like potions, I tweaked for days,  
+**Transformers** I narrate like bedtime phase.  
+**BERT** still lives—gets the job done,  
+**LightGBM**? Clean, precise, fun.
 
-GAN? No paper, but I’ve broken it.  
-Recommendation? Simulated hits.  
-Language models? Not for tweets—  
+**GAN**? No paper, but I’ve broken it.  
+**Recommendation**? Simulated hits.  
+**Language models**? Not for tweets—  
 I use them to make broken things speak.
 
 So don’t ask which model I’ve used.  
