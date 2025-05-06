@@ -24,6 +24,7 @@ Actively looking for opportunities as a:
 - A recommendation plugin that doesn't just echo what you’ve already clicked  
 - Prompt optimization workflows (because ChatGPT deserves better instructions)  
 - Turning scripts into tools even non-tech folks can use—and maybe pay for
+- Treating Leetcode like a gym: 300 reps, form over volume -> **Grinding Leetcode to dust, watching MAANG comp with a grin**
 
 ---
 
@@ -75,6 +76,22 @@ Ask what problem you’ve got—I’ll choose.
 
 ---
 
+## 🧩 Product Mindset (How I Think in Use Cases)
+
+I don’t just train models. I think in systems.
+
+- Built a prompt recommendation tool? I asked what users *really* struggle with before choosing prompts—and made the system answer that.
+- Running a YOLO defect detection pipeline? I optimized for engineers who *don’t care* about models, just want fast, visual results with near-zero post-processing.
+- Designing a cold-start recommender? I’d rather ask the user one smart question than push 10 irrelevant items and hope they click.
+- Evaluating a product change? I don’t start with a dashboard—I define the right metric, design a clean experiment, and make sure the funnel isn’t leaking from the top.
+
+> Product thinking isn’t about features.  
+> It’s about asking: what exactly breaks when a user doesn’t convert—and how can we measure that before shipping anything?
+
+
+
+---
+
 ## ⛓️ Blockchain (No longer mystified, still fascinated)
 
 I used to believe blockchain was a pure decentralized ideal.  
@@ -93,7 +110,7 @@ Now I study blockchains not as rebellion tools, but as imperfect systems shaped 
 ---
 
 ### 💬 Philosophy:
-> If I can make something useful with just Python and a Google Doc,  
+> If I can make something useful with just Python and a Google Doc.  
 > Maybe you don’t need Kubernetes for your MVP 🤡.
 
 ---
