@@ -1,7 +1,7 @@
 ## 👋 Hey, I’m Shane
 
 Former high school underachiever. Current Python mercenary.  
-Once failed math exams, now I’m writing, tuning, and explaining models like bedtime stories.
+Once failed math exams, now I’m composing, tuning, and explaining models like bedtime stories.
 
 - 🎓 M.S. in Data Science @ Boston University  
 - 🛠 Working at a startup doing industrial defect detection – real models, real products, real deadlines  
