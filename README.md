@@ -22,6 +22,9 @@ Actively looking for opportunities as a:
 - 🤖 Machine Learning Engineer
 - 💻 Software Engineer
 
+> Give me one chance and I’ll lock on like a crocodile. I don’t let go until it’s done.
+
+
 ### 🔍 Currently working on:
 - A recommendation plugin that doesn’t just echo what you’ve already clicked  
 - Prompt optimization workflows (because ChatGPT deserves better instructions)  
@@ -36,6 +39,6 @@ Actively looking for opportunities as a:
 ---
 
 ### 📫 Reach me:
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shane-li-882388201/))   
+- [LinkedIn](https://www.linkedin.com/in/shane-li-882388201/)
 - [Still not on Twitter. Too busy building.]
 
