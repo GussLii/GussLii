@@ -34,7 +34,7 @@ Actively looking for opportunities as a:
 
 ### 💬 Philosophy:
 > If I can make something useful with just Python and a Google Doc,  
-> maybe you don’t need Kubernetes for your MVP.
+> Maybe you don’t need Kubernetes for your MVP.
 
 ---
 
